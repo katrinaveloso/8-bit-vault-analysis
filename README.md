@@ -24,11 +24,11 @@ The store aims to meet the needs of a broad gaming audience, from casual players
 
 <h2>Summary of Insights</h2>
 
-- <b>Marketing Channel:</b> Direct website traffic drives 84.7% of total store revenue. Though this marketing channel dominates the company's sales, email-attributed revenue grew by 546% in 2 years. 
+- <b>Marketing Channel:</b> Direct website traffic drives 84.7% of total store revenue. Direct traffic is driven by web searches, indicating that organic search strategy is the most effective marketing channel revenue-wise. Additionally, email-attributed revenue grew by 546% in 2 years. This may be because the email marketing strategy used perfectly incentivises customers and leads alike, through subscriber-exclusive campaigns and more general abandon cart automated emails. 
 
-- <b>Purchase Platform:</b>
+- <b>Purchase Platform:</b> 97.5% of all purchases are made directly on the website. Mobile app sales account for only 2.5% of revenue. This may indicate that 8-Bit Vault’s mobile app may not incentivise users enough to have them purchase directly on the app. It may also point to difficulties in the mobile app’s checkout process that isn’t experienced on the website.
 
-- <b>Account Creation Method:</b>
+- <b>Account Creation Method:</b> Accounts created using smart TVs raked in $5.2K in total revenue from Q1 2019 to Q1 2021. Revenue from TV-made accounts peaked in September 2020, reaching $987 in one month. This may open up opportunities to create special discounts or promotions for customers who purchase items through their smart TVs.
 
 
 <h2>Recommendations and Next Steps</h2>
