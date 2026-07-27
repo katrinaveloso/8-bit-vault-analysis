@@ -30,19 +30,12 @@ The store aims to meet the needs of a broad gaming audience, from casual players
 
 - <b>Need to leverage cross-sells for higher AOV, less acquisition spend:</b> In terms of revenue and order volume, January is the weakest month for sales in 2020. However, this period’s AOV is higher than its six succeeding monthly AOVs. Increased AOV lets the brand focus on earning more from existing customers without spending more on acquisition costs. Cross-selling products is one approach that can boost AOV. For example: cross-selling Dell gaming mouse with every purchase of Acer Nitro V Gaming Laptop. 
 
-<p align="center">
-<img width="451" height="401" alt="Image" src="https://github.com/user-attachments/assets/58cf0ac5-6edd-48c2-9487-675dbbb169cf" />
-</p>
 
 - <b>Focus on fostering customer loyalty:</b> Emails have contributed to $611,180 in overall store revenue from 2019-2021. However, this is only less than 10% of all sales, too low compared to industry standards. According to Klaviyo, 25-30% of ecommerce brands’ total revenue should come from email marketing. One way for 8-Bit to improve this is to accommodate every stage of the customer journey from acquisition to conversion to loyalty through a series of flow/automated emails: welcome, abandoned cart, post-purchase, VIP, winback/replenishment.
 
-<p align="center">
-<img width="451" height="401" alt="Image" src="https://github.com/user-attachments/assets/58cf0ac5-6edd-48c2-9487-675dbbb169cf" />
-</p>
 
 - <b>Unlock higher AOV through email subscriber-exclusive strategy:</b> Affiliate links account for only 3.62% of overall revenue from 2019-2021 but shows the highest AOV among all marketing channels ($308.50). Conversely, email boasts the second highest revenue-generating channel with the lowest AOV. To improve email in terms of AOV, 8-Bit can promote exclusive offers like BOGO, product bundles available only for email subscribers (including those targeted in welcome or abandoned cart flows), or free shipping for purchases above $100.
 
-<img width="872" height="545" alt="Image" src="https://github.com/user-attachments/assets/4953e6a9-d2bc-4aa0-b0a6-46f499538e8e" />
 
 <h2>Recommendations and Next Steps</h2>
 
