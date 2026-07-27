@@ -2,7 +2,7 @@
 
 <h2>8-Bit Vault Sales and Marketing Analysis</h2>
 
-This analysis provides an insight into the 8-Bit Vault's key drivers of marketing revenue, highlighting top performing marketing channels, purchase platforms, and account creation methods. This analysis enables us to pinpoint the 8-Bit Vault's core strengths and weaknesses, and to recommend strategies for improvement.
+Based on revenue and order volume by channel, which marketing channels perform best? This analysis provides 8-Bit Vault’s marketing team with insights on which channels to focus effort and budget and where to scale back.
 
 <h3>About 8-Bit Vault</h3>
 
@@ -15,28 +15,32 @@ The store aims to meet the needs of a broad gaming audience, from casual players
 
 - <b>Revenue:</b> Total product sales (USD Price)
 
-- <b>Marketing Channel:</b> direct, email, affiliate, social media, unknown
+- <b>AOV:</b> Average order value per marketing channel (average revenue per user. Revenue / number of orders)
 
-- <b>Purchase Platform:</b> website, mobile app
-
-- <b>Account Creation Method:</b> desktop, mobile, tablet, tv, unknown
+- <b>LTV:</b> Customer lifetime value (total value one customer generates over their entire relationship with the brand. Sum of usd_price by user_id)
 
 
 <h2>Summary of Insights</h2>
 
-- <b>Marketing Channel:</b> Direct website traffic drives 84.7% of total store revenue. Direct traffic is driven by web searches, indicating that our organic search strategy is the most effective marketing channel for generating revenue. Additionally, email-attributed revenue grew by 546% in 2 years. This may be because the email marketing strategy used perfectly incentivises customers and leads alike, through subscriber-exclusive campaigns and broader targeted abandon cart automated emails.
+- <b>Direct is the brand's strongest marketing channel:</b> Direct website traffic drives 84.7% of total store revenue. Direct traffic is driven by web searches, indicating that the existing search strategy is highly effective in generating revenue. However, this is also indicative of weak omnichannel marketing strategy. Affiliate, email and social media individually contribute less than 10% to overall store revenue, meaning 8-Bit Vault’s marketing could be leaving money on the table by glossing through customer acquisition, retention and loyalty opportunities.
 
 <p align="center">
 <img width="412" height="462" alt="Image" src="https://github.com/user-attachments/assets/4f493267-85a4-4c50-811c-b2ea50d8546b"/> 
 </p>
 
-- <b>Purchase Platform:</b> 97.5% of all purchases are made directly on the website. Mobile app sales account for only 2.5% of revenue. This may indicate that 8-Bit Vault’s mobile app may not incentivise users enough to have them purchase directly on the app. It may also point to difficulties in the mobile app’s checkout process that isn’t experienced on the website.
+- <b>Need to leverage cross-sells for higher AOV, less acquisition spend:</b> In terms of revenue and order volume, January is the weakest month for sales in 2020. However, this period’s AOV is higher than its six succeeding monthly AOVs. Increased AOV lets the brand focus on earning more from existing customers without spending more on acquisition costs. Cross-selling products is one approach that can boost AOV. For example: cross-selling Dell gaming mouse with every purchase of Acer Nitro V Gaming Laptop. 
 
 <p align="center">
 <img width="451" height="401" alt="Image" src="https://github.com/user-attachments/assets/58cf0ac5-6edd-48c2-9487-675dbbb169cf" />
 </p>
 
-- <b>Account Creation Method:</b> Accounts created using smart TVs raked in $5.2K in total revenue from Q1 2019 to Q1 2021. Revenue from TV-made accounts peaked in September 2020, reaching $987 in one month. This may open up opportunities to create special discounts or promotions for customers who purchase items through their smart TVs.
+- <b>Focus on fostering customer loyalty:</b> Emails have contributed to $611,180 in overall store revenue from 2019-2021. However, this is only less than 10% of all sales, too low compared to industry standards. According to Klaviyo, 25-30% of ecommerce brands’ total revenue should come from email marketing. One way for 8-Bit to improve this is to accommodate every stage of the customer journey from acquisition to conversion to loyalty through a series of flow/automated emails: welcome, abandoned cart, post-purchase, VIP, winback/replenishment.
+
+<p align="center">
+<img width="451" height="401" alt="Image" src="https://github.com/user-attachments/assets/58cf0ac5-6edd-48c2-9487-675dbbb169cf" />
+</p>
+
+- <b>Unlock higher AOV through email subscriber-exclusive strategy:</b> Affiliate links account for only 3.62% of overall revenue from 2019-2021 but shows the highest AOV among all marketing channels ($308.50). Conversely, email boasts the second highest revenue-generating channel with the lowest AOV. To improve email in terms of AOV, 8-Bit can promote exclusive offers like BOGO, product bundles available only for email subscribers (including those targeted in welcome or abandoned cart flows), or free shipping for purchases above $100.
 
 <img width="872" height="545" alt="Image" src="https://github.com/user-attachments/assets/4953e6a9-d2bc-4aa0-b0a6-46f499538e8e" />
 
