@@ -36,6 +36,9 @@ The store aims to meet the needs of a broad gaming audience, from casual players
 
 - <b>Unlock higher AOV through email subscriber-exclusive strategy:</b> Affiliate links account for only 3.62% of overall revenue from 2019-2021 but shows the highest AOV among all marketing channels ($308.50). Conversely, email boasts the second highest revenue-generating channel with the lowest AOV. To improve email in terms of AOV, 8-Bit can promote exclusive offers like BOGO, product bundles available only for email subscribers (including those targeted in welcome or abandoned cart flows), or free shipping for purchases above $100.
 
+- <b>Raise Customer LTV with rewards on post-purchase follow-ups:</b> Customer lifetime value helps identify and retain high-value customers, reducing costs to acquire new customers. The highest-value customer generated $5.8K in LTV across 3 orders. Maximising LTV includes strategies like setting up post-purchase email flows that contain an exclusive discount code, or a tiered rewards/VIP program where more purchases = higher points = points redeemable as discounts or gifts. 
+
+
 
 <h2>Recommendations and Next Steps</h2>
 
