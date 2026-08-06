@@ -71,7 +71,7 @@ Fig 5. AOV by Marketing Channel
 </p>
 
 
-- <b>Beginning of COVID pandemic triggered AOV spike in February 2020:</b> This uptick showed that either there were possibly customers who bought from other sources outside of 8-Bit's main marketing channels or that these purchases were improperly tagged marketing channels (Fig 5). Going forward, marketing team should prioritise proper UTM tagging to ensure proper tracking of AOV attribution. 
+- <b>Customers bought more products at the start of COVID pandemic:</b> In February 2020, an uptick in AOV (attributed to unknown channels) showed that customers purchased more gaming equipment likely after lockdowns were announced but before they were enacted. These unknown channels were possibly customers who bought from other sources outside of 8-Bit's main marketing channels, or that these purchases were improperly tagged marketing channels (Fig 5). Going forward, the marketing team should prioritise proper UTM tagging to ensure accurate tracking of marketing channel attribution. 
 
 - <b>Raise Customer LTV with rewards on post-purchase follow-ups:</b> Customer lifetime value helps identify and retain high-value customers, reducing costs to acquire new customers. The highest-value customer generated $5.8K in LTV across 3 orders (Fig 6). Maximising LTV includes strategies like setting up post-purchase email flows that contain an exclusive discount code, or a tiered rewards/VIP program where more purchases = higher points = points redeemable as discounts or gifts. 
 
