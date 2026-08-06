@@ -20,7 +20,7 @@ The store aims to meet the needs of a broad gaming audience, from casual players
 - <b>LTV:</b> Customer lifetime value (total value one customer generates over their entire relationship with the brand. Sum of usd_price by user_id)
 
 
-<h2>Summary of Insights</h2>
+<h2>Summary of Insights and Recommendations</h2>
 
 - <b>Direct is the brand's strongest marketing channel:</b> Direct website traffic drives 84.7% of total store revenue (Fig 1). Direct traffic is driven by web searches, indicating that the existing search strategy is highly effective in generating revenue. However, this is also indicative of weak omnichannel marketing strategy. Affiliate, email and social media individually contribute less than 10% to overall store revenue, meaning 8-Bit Vault’s marketing could be leaving money on the table by glossing through customer acquisition, retention and loyalty opportunities.
 
@@ -81,57 +81,3 @@ Fig 5. AOV by Marketing Channel
 <p align="center">
 Fig 6. Top 15 Customers by Lifetime Value
 </p>
-
-<h2>Recommendations and Next Steps</h2>
-
-  <table>
-    <tr>
-      <th>Insights</th>
-      <th>Recommendations</th>
-    </tr>
-    <tr>
-      <td>Direct website traffic drives 84.7% of total store revenue.</td>
-      <td>
-        • Introduce a loyalty program for customers who have purchased more than once.<br>
-        • Experiment with new organic keywords to drive visibility.
-      </td>
-    </tr>
-    <tr>
-      <td>Social media sales were the strongest in June, July, and September 2020.</td>
-      <td>
-        • Run seasonal promotions on social media during slower sales seasons.
-      </td>
-    </tr>
-    <tr>
-      <td>Emails sparked 546% revenue growth in 2 years.</td>
-      <td>
-        • Offer initial 10% discount for new subscriptions.<br>
-        • Save bigger deals exclusively for email subscribers (e.g., 40% off, BOGO).<br>
-        • Advertise discounts and promote exclusivity on web sign-up forms.
-      </td>
-    </tr>
-    <tr>
-      <td>Affiliates are the third top performing marketing channel, contributing $21.2K to overall revenue.</td>
-      <td>
-        • Kick off a refer-a-friend affiliate campaign during holiday sales.
-      </td>
-    </tr>
-    <tr>
-      <td>“Unknown” marketing channels represent only 0.6% of all total sales.</td>
-      <td>
-        • Ensure proper UTM tagging of all marketing channels.
-      </td>
-    </tr>
-    <tr>
-      <td>97.5% of all purchases are made directly on the website.</td>
-      <td>
-        • Launch loyalty rewards on mobile app. Offer points and/or exclusive discounts on in-app purchases.
-      </td>
-    </tr>
-    <tr>
-      <td>Accounts created using smart TVs raked in $5.2K in total revenue.</td>
-      <td>
-        • Reward customers who sign up through the mobile app – including TV signups with loyalty points or exclusive vouchers.
-      </td>
-    </tr>
-  </table>
